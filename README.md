@@ -4,7 +4,7 @@
 Northwest offers not only **quality education** but it also provide you with numrous events which helps you to grow your **skills**
 
 ---
-Directions to NWMSU
+### Directions to NWMSU
 
 1. Take the university lane from highway exit 66
     1. follow the directions to get to university
