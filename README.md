@@ -7,7 +7,7 @@ Northwest offers not only **quality education** but it also provide you with num
 Directions to NWMSU
 
 1. Take the university lane from highway exit 66
-1. follow the directions to get to university
+    1. follow the directions to get to university
 1. dont get lost
 * for relaxing i would suggest colden lake
  * go to library which is the centre of uni
