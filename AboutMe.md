@@ -16,5 +16,6 @@ I am a student at Northwest Missouri State University ,Doing my major in Applied
 
 >“You only live once, but if you do it right, once is enough.”
 *― Mae West*
+>
 >“If you tell the truth, you don't have to remember anything.”
 *― Mark Twain*
