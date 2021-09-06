@@ -19,3 +19,11 @@ I am a student at Northwest Missouri State University ,Doing my major in Applied
 >
 >“If you tell the truth, you don't have to remember anything.”
 *― Mark Twain*
+
+---
+
+## Alogrithm
+
+>Sparse table concept is used for fast queries on a set of static data (elements do not change). It does preprocessing so that the queries can be answered efficiently. [SparseTable](https://www.geeksforgeeks.org/sparse-table/)
+```int st[MAXN][K + 1];```
+[ForMoreCode](https://cp-algorithms.com/data_structures/sparse-table.html)
