@@ -11,6 +11,7 @@ I am a student at Northwest Missouri State University ,Doing my major in Applied
 | Pizza | PizzaHut | $20 |
 | SrimpFriedRice | JoyWok | $7 |
 | Burger | BurgerKing | $13
+| Noodles | JoyWok | $10
 
 ---
 
